@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FXTI]]></title>
+        <description><![CDATA[FXTI]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 00:17:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Solutions en technologie de l’information performantes]]></title>
+            <description><![CDATA[<article><h1>Solutions en technologie de l’information performantes</h1><p>Découvrez comment les services et solutions informatiques FXTI peuvent aider votre entreprise à rentabiliser vos investissements en TI !</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef666021c74a01ac10560f8cc8ecfcf40735ae47.jpg"></article>]]></description>
+            <link>undefineda0d24aa1-ebf6-4c80-8efa-1c25f2225893/index.html</link>
+            <guid isPermaLink="false">a0d24aa1-ebf6-4c80-8efa-1c25f2225893</guid>
+            <pubDate>Thu, 18 Feb 2016 00:03:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
